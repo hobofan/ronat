@@ -1,0 +1,16 @@
+[package]
+authors = ["Maximilian Goisser <goisser94@gmail.com>"]
+name = "ronat"
+version = "0.1.0"
+
+[dependencies]
+ispell = "0.3.0"
+markdown = "0.2.0"
+
+[dev-dependencies]
+compiletest_rs = "0.2.5"
+
+[lib]
+name = "ronat"
+plugin = true
+test = false

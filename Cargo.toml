@@ -2,6 +2,7 @@
 authors = ["Maximilian Goisser <goisser94@gmail.com>"]
 name = "ronat"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 ispell = "0.3.0"

@@ -3,6 +3,6 @@
 
 /// This is an ererererre.
 #[deny(spelling_error)]
-fn main() {
-    let () = true;
+pub fn main() {
+    // let () = true;
 }
